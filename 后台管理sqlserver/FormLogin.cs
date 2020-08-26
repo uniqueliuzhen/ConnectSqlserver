@@ -29,7 +29,7 @@ namespace 后台管理sqlserver
 
         private void buttonLogin_Click(object sender, EventArgs e)
         {
-
+            Frm newfrm = new Frm();
         }
     }
 }
